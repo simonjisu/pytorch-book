@@ -1,6 +1,4 @@
 __pycache__
 .ipynb_checkpoints
-data/*
-notebooks/data/*
 notebooks/*.pt
-
+notebooks/.vector_cache
