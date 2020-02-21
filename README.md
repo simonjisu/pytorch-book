@@ -2,7 +2,6 @@
 
 <img src="https://drive.google.com/uc?export=view&id=12QpzvHx4d2B71rBc8RPYLjlxRO3aozuT" width="350px">
 
-
 "딥러닝에 목마른 사람들을 위한 PyTorch" 학습 GitHub 입니다.
 
 * [책 홈페이지](https://www.notion.so/simonjisu/PyTorch-37bbddb9ca76472c81fc063013368e6b)
